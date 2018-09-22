@@ -1,0 +1,20 @@
+.delete-button {
+	background-color: #ff0000;
+	border: solid;
+	border-radius: 10px;
+    font-size: 13px;
+}
+
+.btn{
+    background-color: #4CAF50;
+	border: solid;
+	border-radius: 10px;
+    display: block;
+    font-size: 16px;
+}
+
+.button{
+	border: solid;
+	border-radius: 10px;
+    font-size: 13px;
+}
